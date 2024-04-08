@@ -29,3 +29,12 @@ recommandations de sécurité
 
 # Fiche(s) ROME
 https://www.soi-tc.fr/assets/fiches_pe/FEM_M1805.pdf
+
+# Metiers accessibles (liste non exhaustive)
+Concepteur développeur, concepteur d'applications informatiques
+Développeur d'applications, développeur informatique
+Développeur back end, développeur front end, développeur full stack
+Développeur d'applications mobiles
+Développeur web, développeur web mobile, développeur web et web mobile
+Ingénieur d'études et développement
+Analyste programmeur informatique
