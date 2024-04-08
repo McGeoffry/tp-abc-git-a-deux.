@@ -1,4 +1,10 @@
-# Métiers accessible
+# Métiers accessibles
+
+_ Développeur/dévellopeuse informatique
+_ Développeur/développeuse data
+_ Développeur/développeuse web
+_ Concepteur web
+_ responsable développement/Business Developer
 
 # fiche ROME
 
