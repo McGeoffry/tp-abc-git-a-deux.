@@ -2,7 +2,7 @@
 
 Acquérir les pré-requis et savoirs de base nécessaires à l’accès à une formation qualifiante dans le domaine informatique
 
-# Formation DWWM
+Formation DWWM
 
 La formation DWWM est de niveau 5
 
